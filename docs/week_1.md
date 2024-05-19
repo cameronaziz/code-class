@@ -51,7 +51,8 @@ Terminal Control
 
 ## Homework
 * Git
-  * Watch - https://www.youtube.com/watch?v=USjZcfj8yxE
-  * Read - 
+  * [Install Github CLI](https://github.com/cli/cli?tab=readme-ov-file#installation)
+  * [Watch Git Flow](https://www.youtube.com/watch?v=USjZcfj8yxE)
+  * [Read Git Flow](./git_flow.pdf)
 * HTML
 * React
