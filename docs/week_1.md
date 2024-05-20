@@ -114,7 +114,7 @@ ol li {
 > Within `index.html`, write code that does the following:
 > * Remove the `script` auto generataed script tag
 > * Modify the **content** of the level 1 heading tag, `h1`, to be `Ryan Ruiz codes`
-> * Create a level 2 heading tag, `h2`, tag with the content of `Learning to Code`
+> * Create a level 2 heading tag, `h2`, with the content of `Learning to Code`
 > * Create a paragraph tag, `p`, with why you are excited to learn how to code.
 > * Create a level 2 heading tag, `h2`, with the content of `Favorite Games`
 > * Create an ordered list tag, `ol`.
