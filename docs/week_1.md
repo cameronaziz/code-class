@@ -50,12 +50,12 @@ Terminal Control
 
 
 ## Homework
-* Git\
+### Git
   We use Git to share our code and work together. We could save the code on our own computer, but working with a team or actually deploying our code online will be much more difficult. Read [this Github CLI documentation](https://github.com/cli/cli?tab=readme-ov-file#installation) and use the skills you learned in our first lesson to install the Github CLI. If you are up for the challenge, attempt to use the CLI to log into Github!
 
   When we are working, we will be using Git Flow. Watch [this video](https://www.youtube.com/watch?v=USjZcfj8yxE) and [read this](./git_flow.pdf) to begin to learn about Git Flow. Before our next lesson, you will **not** have to do anything with Git or Github. Just begin to learn.
 
-* Setup Playcode
+###  Setup Playcode
   * Navigate to [Playcode](https://playcode.io/javascript)
   * Register for an account, and use your Github to log in.
    ![play](./playcode.png)
