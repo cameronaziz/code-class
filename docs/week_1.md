@@ -96,6 +96,19 @@ ol li {
 > * Define a `const`ant named `validFamily` that is the result of `checkFamily`.
 > `console.log` the value of `validFamily`.
 
+```javascript
+const family = ['Ryan Ruiz']
+family.push('Kylee Ruiz')
+family.push('Sienna Ruiz')
+
+function checkFamily(familyMembers) {
+  return familyMembers.every((familyMember) => familyMember !== 'Easter Bunny')
+}
+
+const validFamily = checkFamily(family)
+console.log(validFamily)
+```
+
   
 ### HTML
   HTML is the language that web browsers understand to know what is visible on the screen. [Watch basic HTML](https://www.youtube.com/watch?v=salY_Sm6mv4) and [this documentation](./html.pdf).
