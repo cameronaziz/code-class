@@ -81,7 +81,7 @@ ol li {
 }
 ```
 
-* Javascript and Typescript\
+### Javascript and Typescript
   We will be doing a lot of work in Typescript. Typescript is a **superset** of Javascript.
   This means that everything that we can do in Javascript, we can also do in Typescript. First, lets learn a bit about Javscript, and soon you will learn why we are working in Typescript. Begin by [watching this course](https://www.youtube.com/watch?v=le-URjBhevE&list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5&pp=iAQB).
 
@@ -97,7 +97,7 @@ ol li {
 > `console.log` the value of `validFamily`.
 
   
-* HTML\
+### HTML
   HTML is the language that web browsers understand to know what is visible on the screen. [Watch basic HTML](https://www.youtube.com/watch?v=salY_Sm6mv4) and [this documentation](./html.pdf).
 
 > Within `index.html`, write code that does the following:
@@ -111,4 +111,10 @@ ol li {
 >   * This is an ordered list, so make sure the games or in order of favorites!
 >   * Make sure your `ol` tag completely surrounds the list items.
 
-* React
+### React
+  We spoke about learning a bit of React but we don't want to get too far ahead of ourselves.
+
+  You can read ahead the following, but it is not required before next week:
+  * [React Overview](https://react.dev/learn/tutorial-tic-tac-toe#overview)
+  * [React Components](https://react.dev/learn/your-first-component)
+  * [JSX](https://react.dev/learn/writing-markup-with-jsx)
