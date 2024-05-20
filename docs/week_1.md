@@ -61,8 +61,7 @@ Terminal Control
    ![play](./playcode.png)
   * Share your workspace and Slack me the link.
 
-> Within `style.css`, do the following
-> * Remove all the auto generated code
+> * Remove all the auto generated code from `style.css`
 > * Insert the following code
 ```css
 body {
@@ -80,6 +79,7 @@ ol li {
   font-style: italic;
 }
 ```
+> * Remove all auto generated code from `index.js`.
 
 ### Javascript and Typescript
   We will be doing a lot of work in Typescript. Typescript is a **superset** of Javascript.
@@ -87,16 +87,27 @@ ol li {
 
 
 > Within `index.js`, write code that does the following:
-> * Remove all auto generated code.
 > * Define variable named `family` that is an array with one element that is a `string` of your first name and last name.
 > * `push` to that array all of your siblings names.
-> * Write a function named `checkFamily` that receives that array as a **parameter**.
-> * Within that function, check to ensure that `every` element is not equal, remember `!==`, to  `Easter Bunny`.
-> * That function should return a `true` if `Easter Bunny` is in `family` and `false` it is not.
-> * Define a `const`ant named `validFamily` that is the result of `checkFamily`.
-> `console.log` the value of `validFamily`.
+> * Write a function named `checkFamily` that receives that array as a **parameter** called `familyMembers`.
+> * Within that function, check `familyMembers` to ensure that `every` element is not equal, `!==`, to `Easter Bunny` and `return` that **response**.
+> * Define a `const`ant named `validFamily` that is the **response** of `checkFamily`.
+> * `console.log` the value of `validFamily`.
 
-  
+#### Be Ready to Discuss
+* How did we pass a **parameter** to the function?
+* What did we do with to make the function give us a **response**?
+
+> Within `index.js`, write code that does the following:
+> * Define a mutable variable, `let`, named `isEqual` that evaluates `'1' == 1`.
+> * `console.log` the value of `isEqual`.
+> * **Reassign** `isEqual` to `'1' === 1`.
+> * `console.log` the value of `isEqual`.
+
+#### Be Ready to Discuss
+* Does each console log output the same value? If so, why? If not, why?
+* What did we do to allow us to **reassign**?
+
 ### HTML
   HTML is the language that web browsers understand to know what is visible on the screen. [Watch basic HTML](https://www.youtube.com/watch?v=salY_Sm6mv4) and [this documentation](./html.pdf).
 
@@ -107,7 +118,7 @@ ol li {
 > * Create a paragraph tag, `p`, with why you are excited to learn how to code.
 > * Create a level 2 heading tag, `h2`, with the content of `Favorite Games`
 > * Create an ordered list tag, `ol`.
-> * within that ordered list, create list items, `li`, for each of your favorite games.
+> * Within that ordered list, create list items, `li`, for each of your favorite games.
 >   * This is an ordered list, so make sure the games or in order of favorites!
 >   * Make sure your `ol` tag completely surrounds the list items.
 
