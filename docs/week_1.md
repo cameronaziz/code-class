@@ -79,6 +79,8 @@ ol li {
   font-style: italic;
 }
 ```
+> Your environment should look similar to this
+![play](./playcode-done.png)
 > * Remove all auto generated code from `script.js`.
 
 ### Javascript and Typescript
