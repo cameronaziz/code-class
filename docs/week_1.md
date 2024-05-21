@@ -79,7 +79,7 @@ ol li {
   font-style: italic;
 }
 ```
-> * Remove all auto generated code from `index.js`.
+> * Remove all auto generated code from `script.js`.
 
 ### Javascript and Typescript
   We will be doing a lot of work in Typescript. Typescript is a **superset** of Javascript.
